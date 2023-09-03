@@ -62,7 +62,7 @@ class _HomeScreenState extends State<HomeScreen> {
             ),
             GButton(
               icon: Icons.list,
-              text: 'Likes',
+              text: 'List',
             ),
           ]),
       body: PageView(
